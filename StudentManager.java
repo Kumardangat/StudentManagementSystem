@@ -6,7 +6,8 @@ public class StudentManager {
 
     public void addStudent(Student student) {
         students.add(student);
-        System.out.println("Student added successfully!");
+        System.out.println("Student added successfully ✅");
+
     }
 
     public void removeStudent(int id) {
